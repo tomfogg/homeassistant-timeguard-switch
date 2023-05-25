@@ -1,0 +1,1 @@
+"""Timeguard Switch integration"""

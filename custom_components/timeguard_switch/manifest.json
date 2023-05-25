@@ -1,0 +1,12 @@
+{
+  "domain": "timeguard_switch",
+  "name": "Timeguard FSTWIFI switch",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": ["certifi","chardet","idna","PyYAML","requests","simplejson","urllib3","timeguard-supplymaster==0.0.17"],
+  "version": "0.1.0",
+  "config_flow": false
+}
